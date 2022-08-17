@@ -3,12 +3,9 @@ channels:
   - defaults
 dependencies:
   - python=3.10
-  - numpy=1.23
   - matplotlib=3.5
   - scipy=1.7.3
   - pip=22.1.2
   - pip:
-    - tqdm==4.64.0
-    - pandas=1.4.3
     - alpaca-py=0.5
     - setuptools=61.2.0
